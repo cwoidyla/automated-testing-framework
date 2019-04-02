@@ -1,0 +1,21 @@
+1. Add verification code
+2. Programmatically address test naming variations
+    2a. Generalize TestRunner's need to remove beginning numbers from test file name
+    2b. (convert_module_name_to_class_name)
+3. Add logging capabilities
+   3a. add timing capabilities
+4. Connect to database
+    4a. figure out how to make cross platform compatible...
+    4b. or store test antecedents in local sqllite database...
+5. Add email notification verification capabilities
+    5a. make it easy to integrate with lifecycle tests
+6. Create generalized automated test for lifecycle:
+    6a. create, search, read, update, destroy
+7. Add load testing capability
+    7a. python threading (https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
+    7b. how to test multiple documents or create different document names per user?
+8. Use constructive algorithm to crawl site for hamiltonian circuit
+    8a. If crawler gets confused, backtrack to last node
+    8b. Distinguish between home-button-completed hamiltonian circuits and other hamiltonian circuits
+9. JavaScript
+    9a. var elems = document.body.getElementsByTagName("*");
