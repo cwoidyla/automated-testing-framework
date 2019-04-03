@@ -2,8 +2,8 @@
 2. Programmatically address test naming variations
     2a. Generalize TestRunner's need to remove beginning numbers from test file name
     2b. (convert_module_name_to_class_name)
-3. Add logging capabilities
-   3a. add timing capabilities
+x-3. Add logging capabilities
+   x-3a. add timing capabilities
 4. Connect to database
     4a. figure out how to make cross platform compatible...
     4b. or store test antecedents in local sqllite database...
